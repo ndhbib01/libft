@@ -1,10 +1,9 @@
-*This project has been created as part of the 42 curriculum by <hahabib>.*
+LIBFT
 
 # Description
 Libft is a custom implementation of standard C library functions. 
 The goal of this project is to reproduce commonly used functions for strings, memory, character checks, conversions, and linked list manipulation.
 This tasks were asisgned to us in order to gain a deep understanding of low-level C operations and memory management. 
-This library serves as a foundation for future 42 projects where standard C functions may be restricted.
 
 # Instructions
 1. **Compilation**

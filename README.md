@@ -48,7 +48,6 @@ The library includes implementations of the following categories of functions:
   - ft_lstnew, ft_lstadd_front, ft_lstsize, ft_lstlast, ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
 
 # Resources
-- [42 Libft Project Instructions](https://projects.intra.42.fr/)
 - [C Standard Library Documentation](https://en.cppreference.com/w/c)
 - [TutorialsPoint C Library Functions](https://www.tutorialspoint.com/c_standard_library)
 - YouTube tutorials on C standard library functions and linked lists
@@ -63,7 +62,6 @@ The library includes implementations of the following categories of functions:
   - Prompting me with questions to test my knowledge and understanding of the functions I wrote
 
 # Additional Notes
-- All functions are implemented according to the 42 curriculum requirements.
 - Separate test files were created to ensure proper functionality without interfering with library compilation.
 
 

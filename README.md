@@ -1,4 +1,4 @@
-LIBFT
+# LIBFT
 
 # Description
 Libft is a custom implementation of standard C library functions. 
